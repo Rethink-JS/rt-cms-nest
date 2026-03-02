@@ -1,5 +1,11 @@
 # rt-cms-nest
 
+![Platform: Web](https://img.shields.io/badge/platform-web-000000)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-F7DF1E?logo=javascript)
+[![npm version](https://img.shields.io/npm/v/%40rethink-js%2Frt-cms-nest.svg)](https://www.npmjs.com/package/@rethink-js/rt-cms-nest)
+[![jsDelivr hits](https://data.jsdelivr.com/v1/package/npm/@rethink-js/rt-cms-nest/badge)](https://www.jsdelivr.com/package/npm/@rethink-js/rt-cms-nest)
+[![License: MIT](https://img.shields.io/badge/License-MIT-FFD632.svg)](https://opensource.org/licenses/MIT)
+
 `rt-cms-nest` is a high-performance, enterprise-grade micro-frontend injector that dynamically fetches and nests CMS content seamlessly. It bypasses native Webflow CMS nesting limitations by scraping and injecting target DOM elements asynchronously.
 
 <br>
