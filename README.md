@@ -18,22 +18,22 @@ It achieves this without compromising page performance, utilizing an internal ar
 
 # Table of Contents
 
-- [1. Installation](https://www.google.com/search?q=%231-installation)
-  - [1.1 CDN (jsDelivr)](https://www.google.com/search?q=%2311-cdn-jsdelivr)
-  - [1.2 npm & Module Bundlers](https://www.google.com/search?q=%2312-npm--module-bundlers)
-- [2. Quick Start](https://www.google.com/search?q=%232-quick-start)
-- [3. Activation Rules](https://www.google.com/search?q=%233-activation-rules)
-- [4. Configuration (HTML Attributes)](https://www.google.com/search?q=%234-configuration-html-attributes)
-  - [4.1 Root / Wrapper Attributes](https://www.google.com/search?q=%23root--wrapper-attributes)
-  - [4.2 Item Attributes](https://www.google.com/search?q=%23item-attributes)
-  - [4.3 Slot (Dropzone) Attributes](https://www.google.com/search?q=%23slot-dropzone-attributes)
-  - [4.4 Target Page Attributes](https://www.google.com/search?q=%23target-page-attributes)
-- [5. Advanced Extraction & Injection](https://www.google.com/search?q=%235-advanced-extraction--injection)
-- [6. Multiple Instances & State Management](https://www.google.com/search?q=%236-multiple-instances--state-management)
-- [7. Global API](https://www.google.com/search?q=%237-global-api)
-- [8. Lifecycle Events](https://www.google.com/search?q=%238-lifecycle-events)
-- [9. Troubleshooting](https://www.google.com/search?q=%239-troubleshooting)
-- [10. License](https://www.google.com/search?q=%2310-license)
+- [1. Installation](#1-installation)
+  - [1.1 CDN (jsDelivr)](#11-cdn-jsdelivr)
+  - [1.2 npm & Module Bundlers](#12-npm--module-bundlers)
+- [2. Quick Start](#2-quick-start)
+- [3. Activation Rules](#3-activation-rules)
+- [4. Configuration (HTML Attributes)](#4-configuration-html-attributes)
+  - [4.1 Root / Wrapper Attributes](#41-root--wrapper-attributes)
+  - [4.2 Item Attributes](#42-item-attributes)
+  - [4.3 Slot (Dropzone) Attributes](#43-slot-dropzone-attributes)
+  - [4.4 Target Page Attributes](#44-target-page-attributes)
+- [5. Advanced Extraction & Injection](#5-advanced-extraction--injection)
+- [6. Multiple Instances & State Management](#6-multiple-instances--state-management)
+- [7. Global API](#7-global-api)
+- [8. Lifecycle Events](#8-lifecycle-events)
+- [9. Troubleshooting](#9-troubleshooting)
+- [10. License](#10-license)
 
 ---
 
