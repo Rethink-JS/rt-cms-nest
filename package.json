@@ -1,21 +1,27 @@
 {
-  "name": "@rethink-js/rt-*",
+  "name": "@rethink-js/rt-cms-nest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Attribute-driven CMS content nesting and partial page importing for Webflow and modern websites.",
   "keywords": [
     "javascript",
-    "rethink-js"
+    "rethink-js",
+    "cms",
+    "webflow",
+    "dom",
+    "partial-render",
+    "html-fetch",
+    "content-nesting"
   ],
   "author": "Rethink JS <opensource@rethink-js.org> (https://github.com/Rethink-JS)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rethink-JS/rt-*.git"
+    "url": "git+https://github.com/Rethink-JS/rt-cms-nest.git"
   },
   "bugs": {
-    "url": "https://github.com/Rethink-JS/rt-*/issues"
+    "url": "https://github.com/Rethink-JS/rt-cms-nest/issues"
   },
-  "homepage": "https://github.com/Rethink-JS/rt-*#readme",
+  "homepage": "https://github.com/Rethink-JS/rt-cms-nest#readme",
   "main": "dist/index.js",
   "unpkg": "dist/index.min.js",
   "jsdelivr": "dist/index.min.js",
